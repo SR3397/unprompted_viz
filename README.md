@@ -12,7 +12,7 @@ This tool helps developers and community managers understand and fine-tune their
 
 2. **Period Distribution View:** Presents binomial probability distributions for expected message counts across four time periods (Night, Morning, Afternoon, Evening) based on your configuration.
 
-![Application Screenshot](https://via.placeholder.com/800x400?text=Application+Screenshot)
+![Application Screenshot](images/example.png)
 
 ## ✨ Features
 
@@ -48,7 +48,7 @@ This tool helps developers and community managers understand and fine-tune their
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/unprompted_viz.git
+git clone https://github.com/SR3397/unprompted_viz.git
 
 # Navigate to project directory
 cd unprompted_viz
